@@ -1,10 +1,12 @@
 \documentclass[]{report}
+\usepackage{array}
+\usepackage{longtable}
 
 
 % Title Page
 \title{Literature Review on Organizational Inertia}
 \author{Douglas Hawthorne}
-\bibliographystyle{alpha}
+\bibliographystyle{plain}
 
 \begin{document}
 \maketitle
@@ -13,20 +15,26 @@
 \end{abstract}
 
 \tableofcontents
+\listoftables
+\listoffigures
 
 \chapter{Introduction}
 I am interested in studying organizational inertia (or resistance to change) in successful organisations because the introductiion of Site Reliability Engineering (\cite{beyer2016site}) requires considerable change to an organisation.\\
 
 This literature review is limited to articles published and catalogued through Google Scholar.\\
 
-\chapter{Main Body}
-\section{Google Scholar Search Results}
-\include{googlescholarsearch}
-\section{Articles Reviewed}
-\include{geiger2009narratives}
-\section{Abstracts Reviewed}
-\section{Citing Articles Reviewed}
-\include{analysisgeiger2009narratives}
+\chapter{Google Scholar Search Results}
+\input{googlescholarsearch}
+\chapter{Articles Reviewed}
+\input{geiger2009narratives}
+\chapter{Abstracts Reviewed}
+\chapter{Authors Reviewed}
+\input{authorantonacopoulou}
+\input{authorgeiger}
+\chapter{Journals Reviewed}
+\input{journalquality}
+\chapter{Citing Articles Reviewed}
+\input{analysisgeiger2009narratives}
 
 \chapter{Conclusion}
 
