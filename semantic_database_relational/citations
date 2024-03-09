@@ -1,0 +1,1400 @@
+@article{venkatesh2013bridging,
+  title={Bridging the qualitative-quantitative divide: Guidelines for conducting mixed methods research in information systems},
+  author={Venkatesh, Viswanath and Brown, Susan A and Bala, Hillol},
+  journal={MIS quarterly},
+  pages={21--54},
+  year={2013},
+  publisher={JSTOR}
+}
+
+@article{rai2010leveraging,
+  title={Leveraging IT capabilities and competitive process capabilities for the management of interorganizational relationship portfolios},
+  author={Rai, Arun and Tang, Xinlin},
+  journal={Information systems research},
+  volume={21},
+  number={3},
+  pages={516--542},
+  year={2010},
+  publisher={INFORMS}
+}
+
+@article{rai2012interfirm,
+  title={Interfirm IT capability profiles and communications for cocreating relational value: evidence from the logistics industry},
+  author={Rai, Arun and Pavlou, Paul A and Im, Ghiyoung and Du, Steve},
+  journal={MIS quarterly},
+  pages={233--262},
+  year={2012},
+  publisher={JSTOR}
+}
+
+@article{mignerat2015positioning,
+  title={Positioning the institutional perspective in information systems research},
+  author={Mignerat, Muriel and Rivard, Suzanne},
+  journal={Formulating Research Methods for Information Systems: Volume 2},
+  pages={79--126},
+  year={2015},
+  publisher={Palgrave Macmillan UK}
+}
+
+@article{sila2013factors,
+  title={Factors affecting the adoption of B2B e-commerce technologies},
+  author={Sila, Ismail},
+  journal={Electronic commerce research},
+  volume={13},
+  pages={199--236},
+  year={2013},
+  publisher={Springer US}
+}
+
+@article{zhang2009investigation,
+  title={An investigation of resource-based and institutional theoretic factors in technology adoption for operations and supply chain management},
+  author={Zhang, Cheng and Dhaliwal, Jasbir},
+  journal={International Journal of Production Economics},
+  volume={120},
+  number={1},
+  pages={252--269},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{venkatesh2012adoption,
+  title={Adoption and impacts of interorganizational business process standards: Role of partnering synergy},
+  author={Venkatesh, Viswanath and Bala, Hillol},
+  journal={Information systems research},
+  volume={23},
+  number={4},
+  pages={1131--1157},
+  year={2012},
+  publisher={INFORMS}
+}
+
+@article{lyngbaek1987mapping,
+  title={Mapping a semantic database model to the relational model},
+  author={Lyngbaek, Peter and Vianu, Victor},
+  journal={ACM SIGMOD Record},
+  volume={16},
+  number={3},
+  pages={132--142},
+  year={1987},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{hull1987semantic,
+  title={Semantic database modeling: Survey, applications, and research issues},
+  author={Hull, Richard and King, Roger},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={19},
+  number={3},
+  pages={201--260},
+  year={1987},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{roventini2000italwordnet,
+  title={ItalWordNet: a Large Semantic Database for Italian.},
+  author={Roventini, Adriana and Alonge, Antonietta and Calzolari, Nicoletta and Magnini, Bernardo and Bertagna, Francesca},
+  booktitle={LREC},
+  year={2000}
+}
+
+@article{abiteboul1987ifo,
+  title={IFO: A formal semantic database model},
+  author={Abiteboul, Serge and Hull, Richard},
+  journal={ACM Transactions on Database Systems (TODS)},
+  volume={12},
+  number={4},
+  pages={525--565},
+  year={1987},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{hammer1981database,
+  title={Database description with SDM: A semantic database model},
+  author={Hammer, Michael and Mc Leod, Dennis},
+  journal={ACM Transactions on Database Systems (TODS)},
+  volume={6},
+  number={3},
+  pages={351--386},
+  year={1981},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{kohler2000logical,
+  title={Logical and semantic database integration},
+  author={Kohler, Jacob and Lange, Matthias and Hofestadt, R and Schulze-Kremer, Steffen},
+  booktitle={Proceedings IEEE International Symposium on Bio-Informatics and Biomedical Engineering},
+  pages={77--80},
+  year={2000},
+  organization={IEEE}
+}
+
+@inproceedings{de2001applying,
+  title={Applying semantic database principles in a relational environment},
+  author={de Boer, Berend and Bekke, JH t},
+  booktitle={APPLIED INFORMATICS-PROCEEDINGS-},
+  number={1},
+  pages={400--405},
+  year={2001},
+  organization={Citeseer}
+}
+
+@article{farmer1985semantic,
+  title={The semantic database constructor},
+  author={Farmer, DAVID B and King, Roger and Myers, David A},
+  journal={IEEE transactions on software engineering},
+  number={7},
+  pages={583--591},
+  year={1985},
+  publisher={IEEE}
+}
+
+@book{boyed2003semantic,
+  title={A Semantic Database Management System: SIM},
+  author={Boyed, Saurabh},
+  year={2003},
+  publisher={Computer Science Department, University of Texas at Austin}
+}
+
+@article{zheng2006dynamic,
+  title={Dynamic query optimization approach for semantic database grid},
+  author={Zheng, Xiao-Qing and Chen, Hua-Jun and Wu, Zhao-Hui and Mao, Yu-Xin},
+  journal={Journal of Computer Science and Technology},
+  volume={21},
+  number={4},
+  pages={597--608},
+  year={2006},
+  publisher={Springer}
+}
+
+@article{storey1993understanding,
+  title={Understanding semantic relationships},
+  author={Storey, Vede C},
+  journal={The VLDB Journal},
+  volume={2},
+  pages={455--488},
+  year={1993},
+  publisher={Springer}
+}
+
+@inproceedings{kunze2000extension,
+  title={Extension and Use of GermaNet, a Lexical-Semantic Database.},
+  author={Kunze, Claudia},
+  booktitle={LREC},
+  year={2000}
+}
+
+@article{schnase1993semantic,
+  title={Semantic data modeling of hypermedia associations},
+  author={Schnase, John L and Leggett, John J and Hicks, David L and Szabo, Ron L},
+  journal={ACM Transactions on Information Systems (TOIS)},
+  volume={11},
+  number={1},
+  pages={27--50},
+  year={1993},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{messina2018biograkn,
+  title={BioGrakn: A knowledge graph-based semantic database for biomedical sciences},
+  author={Messina, Antonio and Pribadi, Haikal and Stichbury, Jo and Bucci, Michelangelo and Klarman, Szymon and Urso, Alfonso},
+  booktitle={Complex, Intelligent, and Software Intensive Systems: Proceedings of the 11th International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS-2017)},
+  pages={299--309},
+  year={2018},
+  organization={Springer}
+}
+
+@inproceedings{rishe2000semantic,
+  title={Semantic access: semantic interface for querying databases},
+  author={Rishe, Naphtali and Yuan, Jun and Athauda, Rukshan and Chen, Shu-Ching and Lu, Xiaoling and Ma, Xiaobin and Vaschillo, Alexander and Shaposhnikov, Artyom and Vasilevsky, Dmitry},
+  booktitle={VLDB},
+  pages={591--594},
+  year={2000}
+}
+
+@inproceedings{burger1980semantic,
+  title={Semantic database mapping in EUFID},
+  author={Burger, John F},
+  booktitle={Proceedings of the 1980 ACM SIGMOD international conference on Management of data},
+  pages={67--74},
+  year={1980}
+}
+
+@inproceedings{rishe2005semantic,
+  title={Semantic Database Engine Design.},
+  author={Rishe, Naphtali and Barreto, Armando and Chekmasov, Maxim and Vasilevsky, Dmitry and Graham, Scott and Sood, Sonal and Wolfson, Ouri},
+  booktitle={ICEIS (1)},
+  pages={433--436},
+  year={2005}
+}
+
+@article{piek2013cornetto,
+  title={Cornetto: a combinatorial lexical semantic database for Dutch},
+  author={Piek Vossen, Isa Maks and Segers, Roxane and Van Der Vliet, Hennie and Moens, Marie-Francine and Hofmann, Katja and Sang, Erik Tjong Kim and De Rijke, Maarten},
+  journal={Essential Speech and Language Technology for Dutch},
+  pages={165},
+  year={2013}
+}
+
+@article{feuchtwanger1993towards,
+  title={Towards a Geographic Semantic Database Model},
+  author={Feuchtwanger, Martin},
+  year={1993},
+  publisher={Simon Fraser University}
+}
+
+@book{thalheim2013dependencies,
+  title={Dependencies in relational databases},
+  author={Thalheim, Bernhard},
+  year={2013},
+  publisher={Springer-Verlag}
+}
+
+@inproceedings{gilarranz1997approach,
+  title={An approach to conceptual text retrieval using the EuroWordNet multilingual semantic database},
+  author={Gilarranz, Julio and Gonzalo, Julio and Verdejo, Felisa},
+  booktitle={Electronic Working Notes of the AAAI Spring Symposium on Cross-Language Text and Speech Retrieval},
+  year={1997}
+}
+
+@inproceedings{mintz2009distant,
+  title={Distant supervision for relation extraction without labeled data},
+  author={Mintz, Mike and Bills, Steven and Snow, Rion and Jurafsky, Dan},
+  booktitle={Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL and the 4th International Joint Conference on Natural Language Processing of the AFNLP},
+  pages={1003--1011},
+  year={2009}
+}
+
+@mastersthesis{berman1983semantic,
+  title={The semantic database model as a basis for an automated database design tool},
+  author={Berman, Sonia},
+  year={1983},
+  school={University of Cape Town}
+}
+
+@inproceedings{sanchez1996semantic,
+  title={Semantic database for geographic information systems},
+  author={Sanchez, Mario R and Barton, David and Rishe, Naphtali D},
+  booktitle={Proceedings of SOUTHEASTCON'96},
+  pages={696--698},
+  year={1996},
+  organization={IEEE}
+}
+
+@article{hamalainen2018extracting,
+  title={Extracting a semantic database with syntactic relations for finnish to boost resources for endangered uralic languages},
+  author={H{\"a}m{\"a}l{\"a}inen, Mika},
+  journal={The Proceedings of Logic and Engineering of Natural Language Semantics 15 (LENLS15)},
+  year={2018}
+}
+
+@article{kohler2003semeda,
+  title={SEMEDA: ontology based semantic integration of biological databases},
+  author={K{\"o}hler, Jacob and Philippi, Stephan and Lange, Matthias},
+  journal={Bioinformatics},
+  volume={19},
+  number={18},
+  pages={2420--2427},
+  year={2003},
+  publisher={Oxford University Press}
+}
+
+@article{darwish2016improving,
+  title={Improving semantic compression specification in large relational database},
+  author={Darwish, Saad Mohamed},
+  journal={IET Software},
+  volume={10},
+  number={4},
+  pages={108--115},
+  year={2016},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{vossen2007cornetto,
+  title={The Cornetto database: Architecture and user-scenarios},
+  author={Vossen, Piek and Hofmann, Katja and de Rijke, Maarten and Sang, E Tjong Kim and Deschacht, Koen},
+  booktitle={Proceedings DIR},
+  volume={2007},
+  pages={89--96},
+  year={2007}
+}
+
+@inproceedings{vossen2008integrating,
+  title={Integrating lexical units, synsets and ontology in the Cornetto Database.},
+  author={Vossen, Piek and Maks, Isa and Segers, Roxane and VanderVliet, Hennie},
+  booktitle={LREC},
+  year={2008}
+}
+
+@article{kohler2002semantic,
+  title={The semantic metadatabase (SEMEDA): ontology based integration of federated molecular biological data sources},
+  author={K{\"o}hler, Jacob and Schulze-Kremer, Steffen},
+  journal={In Silico Biology},
+  volume={2},
+  number={3},
+  pages={219--231},
+  year={2002},
+  publisher={IOS Press}
+}
+
+@inproceedings{fisher2008use,
+  title={Use of OWL and SWRL for Semantic Relational Database Translation.},
+  author={Fisher, Matt and Dean, Mike and Joiner, Gregory},
+  booktitle={OWLED (spring)},
+  year={2008},
+  organization={Citeseer}
+}
+
+@inproceedings{brawner1995formal,
+  title={A formal basis for schema analysis of semantic database update semantics},
+  author={Brawner, James and Vorbach, James},
+  booktitle={Proceedings of the 1995 ACM 23rd annual conference on Computer science},
+  pages={142--149},
+  year={1995}
+}
+
+@article{lin2023context,
+  title={Context-based Ontology Modelling for Database: Enabling ChatGPT for Semantic Database Management},
+  author={Lin, Wenjun and Babyn, Paul and Zhang, Wenjun and others},
+  journal={arXiv preprint arXiv:2303.07351},
+  year={2023}
+}
+
+@phdthesis{li2006web,
+  title={WEB DATABASE (WDB): A JAVA SEMANTIC DATABASE},
+  author={Li, Bo},
+  year={2006},
+  school={University of Texas at Austin}
+}
+
+@inproceedings{agostini2021uzwordnet,
+  title={Uzwordnet: A lexical-semantic database for the uzbek language},
+  author={Agostini, Alessandro and Usmanov, Timur and Khamdamov, Ulugbek and Abdurakhmonova, Nilufar and Mamasaidov, Mukhammadsaid},
+  booktitle={Proceedings of the 11th Global Wordnet conference},
+  pages={8--19},
+  year={2021}
+}
+
+@inproceedings{stein2003enabling,
+  title={Enabling video annotation using a semantic database extended with visual knowledge},
+  author={Stein, Gees C and Rittscher, Jens and Hoogs, Anthony},
+  booktitle={2003 International Conference on Multimedia and Expo. ICME'03. Proceedings (Cat. No. 03TH8698)},
+  volume={1},
+  pages={I--161},
+  year={2003},
+  organization={IEEE}
+}
+
+@inproceedings{yerashenia2019computational,
+  title={Computational modelling for bankruptcy prediction: Semantic data analysis integrating graph database and financial ontology},
+  author={Yerashenia, Natalia and Bolotov, Alexander},
+  booktitle={2019 IEEE 21st Conference on Business Informatics (CBI)},
+  volume={1},
+  pages={84--93},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{al2011semantic,
+  title={Semantic Data Integration Approaches},
+  author={Al-Sudairy, Mohammed T and Vasista, TGK},
+  journal={International Journal of Web \& Semantic Technology},
+  volume={2},
+  number={1},
+  pages={12},
+  year={2011}
+}
+
+@article{bond2014multilingual,
+  title={A multilingual lexico-semantic database and ontology},
+  author={Bond, Francis and Fellbaum, Christiane and Hsieh, Shu-Kai and Huang, Chu-Ren and Pease, Adam and Vossen, Piek},
+  journal={Towards the Multilingual Semantic Web: Principles, Methods and Applications},
+  pages={243--258},
+  year={2014},
+  publisher={Springer}
+}
+
+@inproceedings{hull1984relative,
+  title={Relative information capacity of simple relational database schemata},
+  author={Hull, Richard},
+  booktitle={Proceedings of the 3rd ACM SIGACT-SIGMOD symposium on Principles of database systems},
+  pages={97--109},
+  year={1984}
+}
+
+@article{peckham1988semantic,
+  title={Semantic data models},
+  author={Peckham, Joan and Maryanski, Fred},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={20},
+  number={3},
+  pages={153--189},
+  year={1988},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{darwish2015semantic,
+  title={Semantic Database Compression System Based on Augmented Vector Quantization.},
+  author={Darwish, Saad M and El-Kaffas, Saleh M and Abdulateef, Omar A},
+  journal={J. Softw.},
+  volume={10},
+  number={10},
+  pages={1127--1139},
+  year={2015}
+}
+
+@inproceedings{wang2000mining,
+  title={Mining functional dependencies from fuzzy relational databases},
+  author={Wang, Shyue-Liang and Tsai, Jenn-Shing and Hong, Tzung-Pei},
+  booktitle={Proceedings of the 2000 ACM symposium on Applied computing-Volume 1},
+  pages={490--493},
+  year={2000}
+}
+
+@article{conn2004methodology,
+  title={A Methodology for Implementing Ontology-Driven Information Systems Using Higher Order Semantic Database Models},
+  author={Conn, Samuel},
+  year={2004}
+}
+
+@article{batzios2009db4owl,
+  title={db4OWL: An alternative approach to organizing and storing semantic data},
+  author={Batzios, Alexandros and Mitkas, Pericles A},
+  journal={IEEE internet computing},
+  volume={13},
+  number={6},
+  pages={48--55},
+  year={2009},
+  publisher={IEEE}
+}
+
+@inproceedings{king1984ski,
+  title={Ski: A Semantics-Knowledgeable Interface.},
+  author={King, Roger and Melville, Stephen},
+  booktitle={VLDB},
+  pages={30--33},
+  year={1984}
+}
+
+@article{mcleod1980abstraction,
+  title={Abstraction in databases},
+  author={McLeod, Dennis and Smith, John Miles},
+  journal={ACM SIGPLAN Notices},
+  volume={16},
+  number={1},
+  pages={19--25},
+  year={1980},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{umar2019implementation,
+  title={Implementation of Semantic Web on Wireless Sensor Application for Environment Monitoring},
+  author={Umar, Ubaidillah and Widyantara, Helmy and Montolalu, Billy and Muhsin, M},
+  booktitle={2019 International Conference on Electrical, Electronics and Information Engineering (ICEEIE)},
+  volume={6},
+  pages={123--127},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{nikulasdottir2010extraction,
+  title={Extraction of semantic relations as a basis for a future semantic database for Icelandic},
+  author={Nikul{\'a}sd{\'o}ttir, A and Whelpton, Matthew},
+  booktitle={7th SaLTMiL Workshop on Creation and Use of Basic Lexical Resources for Less-Resourced Languages (Workshop 22 of 7th Language Resources and Evaluation Conference), Valletta, Malta},
+  pages={33--39},
+  year={2010}
+}
+
+@inproceedings{rishe2005xml,
+  title={XML-Based Semantic Database Definition Language.},
+  author={Rishe, Naphtali and Adjouadi, Malek and Chekmasov, Maxim and Vasilevsky, Dmitry and Graham, Scott and Hernandez, Dayanara and Wolfson, Ouri},
+  booktitle={ICEIS (1)},
+  pages={197--202},
+  year={2005}
+}
+
+@article{tichy2021lexico,
+  title={A lexico-semantic database of Czech: An interim report},
+  author={Tich{\`y}, Ond{\v{r}}ej and Obstov{\'a}, Zora and Kl{\'e}gr, Ale{\v{s}}},
+  journal={Linguistica Pragensia},
+  volume={2021},
+  number={31},
+  year={2021}
+}
+
+@article{yesilyurt2022development,
+  title={Development of a Semantic Database Model to Facilitate Data Analytics in Battery Cell Manufacturing},
+  author={Yesilyurt, Ozan and Brandt, David and Grimm, Julian Jo{\"e}l and Husseini, Kamal and Naumann, Aleksandra and Meiners, Julia and Becker-Koch, David},
+  year={2022}
+}
+
+@phdthesis{xie1987design,
+  title={The design of semantic database model SDBM},
+  author={Xie, Linchi},
+  year={1987},
+  school={University of British Columbia}
+}
+
+@inproceedings{ruimy2008more,
+  title={More Semantic Links in the SIMPLE-CLIPS Database.},
+  author={Ruimy, Nilda and Toral, Antonio},
+  booktitle={LREC},
+  year={2008}
+}
+
+@article{sharmabehavior,
+  title={Behavior Analysis of Semantic Data Models},
+  author={Sharma, Chirag and Kaur, Sandeep},
+  journal={{\^\i}n International Journal of Innovative Technology and Exploring Engineering (IJITEE), ISSN},
+  pages={2278--3075},
+  publisher={Citeseer}
+}
+
+@inproceedings{achpal2016modeling,
+  title={Modeling ontology semantic constraints in relational database management system},
+  author={Achpal, Aman and Kumar, Vinayshekhar Bannihatti and Mahesh, Kavi},
+  booktitle={Proceedings of the International MultiConference of Engineers and Computer Scientists},
+  volume={1},
+  year={2016}
+}
+
+@article{linden2017finnfn,
+  title={FinnFN 1.0: The Finnish frame semantic database},
+  author={Lind{\'e}n, Krister and Haltia, Heidi and Luukkonen, Juha and Laine, Antti O and Roivainen, Henri and V{\"a}is{\"a}nen, Niina},
+  journal={Nordic Journal of Linguistics},
+  volume={40},
+  number={3},
+  pages={287--311},
+  year={2017},
+  publisher={Cambridge University Press}
+}
+
+@inproceedings{ghersgorin2000western,
+  title={Western Cultures Semantic Database Application},
+  author={Ghersgorin, Raquel and Anzardo, Abraham and Rishe, Naphtali},
+  booktitle={Workshop on Semantic Spatial Databases},
+  pages={50},
+  year={2000}
+}
+
+@inproceedings{van2010cornetto,
+  title={The Cornetto database: Semantic issues in linking lexical units and synsets},
+  author={van der Vliet, Hennie and Maks, Isa and Vossen, Piek and Segers, Roxane},
+  booktitle={Proceedings of the 14th EURALEX 2010 International Congress, Leeuwarden, The Netherlands},
+  year={2010}
+}
+
+@inproceedings{rishe2000benchmarking,
+  title={A Benchmarking Technique for DBMS's with Advanced Data Models.},
+  author={Rishe, Naphtali and Vaschillo, Alexander and Vasilevsky, Dmitry and Shaposhnikov, Artyom and Chen, Shu-Ching},
+  booktitle={ADBIS-DASFAA Symposium},
+  pages={138--149},
+  year={2000}
+}
+
+@inproceedings{haraty2013relational,
+  title={Relational Database Design Patterns},
+  author={Haraty, Ramzi A and Stephan, Georges},
+  booktitle={2013 IEEE 16th International Conference on Computational Science and Engineering},
+  pages={818--824},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{kunze2002germanet,
+  title={GermaNet-representation, visualization, application.},
+  author={Kunze, Claudia and Lemnitzer, Lothar},
+  booktitle={LREC},
+  year={2002}
+}
+
+@article{lane1986semantic,
+  title={Semantic Database Model Language (SDML): grammar specification and parser},
+  author={Lane, Richard Vernon},
+  year={1986}
+}
+
+@article{li2021agent,
+  title={Agent-Based Parallelization of a Multi-Dimensional Semantic Database Model},
+  author={Li, Xiaotian},
+  year={2021}
+}
+
+@inproceedings{filatov2019synthesis,
+  title={Synthesis of semantic model of subject area at integration of relational databases},
+  author={Filatov, Valentin and Semenets, Valerii and Zolotukhin, Oleh},
+  booktitle={2019 IEEE 8th International Conference on Advanced Optoelectronics and Lasers (CAOL)},
+  pages={598--601},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{lependu2008ontology,
+  title={Ontology database: A new method for semantic modeling and an application to brainwave data},
+  author={LePendu, Paea and Dou, Dejing and Frishkoff, Gwen A and Rong, Jiawei},
+  booktitle={Scientific and Statistical Database Management: 20th International Conference, SSDBM 2008, Hong Kong, China, July 9-11, 2008 Proceedings 20},
+  pages={313--330},
+  year={2008},
+  organization={Springer}
+}
+
+@article{dixitnovel,
+  title={A Novel Technique for Creating Semantic Database for Hidden Web},
+  author={Dixit, Manvi Ashutosh and Bhatia, Komal Kumar and Kardam, Rinki}
+}
+
+@article{rundensteiner1989set,
+  title={Set-related restrictions for semantic groupings},
+  author={Rundensteiner, Elke and Bic, Lubomir and Gilbert, Jonathan and Yin, Meng-Lai},
+  year={1989}
+}
+
+@incollection{rishe2011semantic,
+  title={Semantic wrapper: concise semantic querying of legacy relational databases},
+  author={Rishe, Naphtali and Furht, Borko and Adjouadi, Malek and Barreto, Armando and Davis, Debra and Wolfson, Ouri and Yesha, Yelena and Yesha, Yaacov},
+  booktitle={Handbook of data intensive computing},
+  pages={415--444},
+  year={2011},
+  publisher={Springer}
+}
+
+@inproceedings{cerans2012advanced,
+  title={Advanced OWL 2.0 ontology visualization in OWLGrEd},
+  author={Cerans, Karlis and Ovcinnikova, Julija and Liepins, Renars and Sprogis, Arturs},
+  booktitle={Databases and Information Systems VII--Selected Papers from the 10th Int. Baltic Conference (DB\&IS)},
+  pages={41--54},
+  year={2012}
+}
+
+@article{r1993syntactic,
+  title={A Syntactic Method for Enforcing Semantic Database Integrity Constraints},
+  author={R Goldberg, Robert and Shapiro, Jacob and Waxman, Jerry},
+  journal={Journal of computing and information technology},
+  volume={1},
+  number={2},
+  pages={111--121},
+  year={1993},
+  publisher={Fakultet elektrotehnike i ra{\v{c}}unarstva Sveu{\v{c}}ili{\v{s}}ta u Zagrebu}
+}
+
+@inproceedings{barque2010definitions,
+  title={From the Definitions of the" Tr{\'e}sor de la Langue Fran{\c{c}}aise" To a Semantic Database of the French Language},
+  author={Barque, Lucie and Nasr, Alexis and Polguere, Alain},
+  booktitle={XIV Euralex International Congress},
+  pages={245--252},
+  year={2010}
+}
+
+@article{rishe1993methodology,
+  title={A methodology and tool for top-down relational database design},
+  author={Rishe, Naphtali},
+  journal={Data \& knowledge engineering},
+  volume={10},
+  number={3},
+  pages={259--291},
+  year={1993},
+  publisher={Elsevier}
+}
+
+@techreport{rishe1995storage,
+  title={Storage and Visualization of Spatial Data in a High-performance Semantic Database System},
+  author={Rishe, NAPHTALI and Barton, David and Sanchez, Mario and FLORIDA INTERNATIONAL UNIV MIAMI SCHOOL OF COMPUTER SCIENCE},
+  year={1995},
+  institution={Florida International University Technical Report}
+}
+
+@misc{thielen1999turning,
+  title={Turning a Bilingual Dictionary into a Lexical-Semantic Database Thierry Fontenelle},
+  author={Thielen, Christine},
+  year={1999}
+}
+
+@phdthesis{dhandhania2014learning,
+  title={Learning a semantic database from unstructured text},
+  author={Dhandhania, Keshav},
+  year={2014},
+  school={Massachusetts Institute of Technology}
+}
+
+@article{roventiniproper,
+  title={Proper Names in A Semantic Database},
+  author={Roventini, Rita Marinelli--Adriana},
+  publisher={Citeseer}
+}
+
+@article{rishe1991file,
+  title={A file structure for semantic databases},
+  author={Rishe, Naphtali},
+  journal={Information Systems},
+  volume={16},
+  number={4},
+  pages={375--385},
+  year={1991},
+  publisher={Elsevier}
+}
+
+@inproceedings{samvelian2013introducing,
+  title={Introducing PersPred, a syntactic and semantic database for Persian complex predicates},
+  author={Samvelian, Pollet and Faghiri, Pegah},
+  booktitle={The 9th Workshop on Multiword Expressions},
+  pages={11--20},
+  year={2013}
+}
+
+@phdthesis{chen1989derived,
+  title={Derived data update in semantic databases},
+  author={Chen, I-Min Amy and McLeod, Dennis},
+  year={1989},
+  school={University of Southern California}
+}
+
+@inproceedings{jagannathan1988sim,
+  title={SIM: A database system based on the semantic data model},
+  author={Jagannathan, D and Fritchman, BL and Guck, RL and Thompson, JP and Tolbert, DM},
+  booktitle={Proceedings of the 1988 ACM SIGMOD international conference on Management of data},
+  pages={46--55},
+  year={1988}
+}
+
+@inproceedings{aerts1992transforming,
+  title={Transforming functional database schemes to relational representations},
+  author={Aerts, Adrianus Theodorus Maria and De Bra, PME and van Hee, Kees M},
+  booktitle={Specifications of Database Systems: International Workshop on Specifications of Database Systems, Glasgow, 3--5 July 1991},
+  pages={1--20},
+  year={1992},
+  organization={Springer}
+}
+
+@article{brodie1980data,
+  title={Data abstraction for designing database-intensive applications},
+  author={Brodie, Michael L},
+  journal={ACM SIGMOD Record},
+  volume={11},
+  number={2},
+  pages={101--103},
+  year={1980},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{gogolla1998stepwise,
+  title={Stepwise re-engineering and development of object-oriented database schemata},
+  author={Gogolla, Martin and Huge, Anne Kathrin and Randt, Bodo},
+  booktitle={Proceedings Ninth International Workshop on Database and Expert Systems Applications (Cat. No. 98EX130)},
+  pages={943--948},
+  year={1998},
+  organization={IEEE}
+}
+
+@article{davis2000efficient,
+  title={Efficient storage and retrieval of georeferenced objects in a semantic database for web-based applications},
+  author={Davis, Debra Lee},
+  year={2000}
+}
+
+@inproceedings{chakroun2013careful,
+  title={Be careful when designing semantic databases: Data and concepts redundancy},
+  author={Chakroun, Chedlia and Bellatreche, Ladjel and A{\"\i}t-Ameur, Yamine and Berkani, Nabila and Jean, St{\'e}phane},
+  booktitle={IEEE 7th International Conference on Research Challenges in Information Science (RCIS)},
+  pages={1--12},
+  year={2013},
+  organization={IEEE}
+}
+
+@article{ma2007literature,
+  title={A Literature Overview of Fuzzy Database Modeling},
+  author={Ma, Zong Min},
+  journal={Intelligent Databases: Technologies and Applications},
+  pages={167--196},
+  year={2007},
+  publisher={IGI global}
+}
+
+@inproceedings{rishe2005storage,
+  title={Storage Types in the Semantic Binary Database Engine.},
+  author={Rishe, Naphtali and Adjouadi, Malek and Chekmasov, Maxim and Vasilevsky, Dmitry and Graham, Scott and Hernandez, Dayanara and Wolfson, Ouri},
+  booktitle={ICEIS (1)},
+  pages={437--440},
+  year={2005}
+}
+
+@article{vantoward,
+  title={Toward a semantic image database system},
+  author={van Dreumel, Frank},
+  publisher={Citeseer}
+}
+
+@techreport{rishe1997efficient,
+  title={Efficient Parallel Semantic/OO Database Management.},
+  author={Rishe, Naphtali and FLORIDA INTERNATIONAL UNIV MIAMI SCHOOL OF COMPUTER SCIENCE},
+  year={1997}
+}
+
+@article{heinecke1996lexical,
+  title={A Lexical Semantic Database for Verbmobil},
+  author={Heinecke, Johannes and Worm, Karsten L},
+  journal={arXiv preprint cmp-lg/9607032},
+  year={1996}
+}
+
+@inproceedings{lo2013use,
+  title={Use of Semantic Co-relation in Target Audience Profiling},
+  author={Lo, Siaw Ling and Mei, Shan Dong and Liew, Viridis},
+  booktitle={2013 Fourth Global Congress on Intelligent Systems},
+  pages={234--238},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{weippl2005semantic,
+  title={Semantic storage: A report on performance and flexibility},
+  author={Weippl, Edgar R and Klemen, Markus and Linnert, Manfred and Fenz, Stefan and Goluch, Gernot and Tjoa, A Min},
+  booktitle={Database and Expert Systems Applications: 16th International Conference, DEXA 2005, Copenhagen, Denmark, August 22-26, 2005. Proceedings 16},
+  pages={586--595},
+  year={2005},
+  organization={Springer}
+}
+
+@article{heinecke1996verbmobil,
+  title={The Verbmobil semantic database},
+  author={Heinecke, Johannes and Worm, Karsten},
+  year={1996}
+}
+
+@inproceedings{techentin2014characterization,
+  title={Characterization of semi-synthetic dataset for big-data semantic analysis},
+  author={Techentin, Robert and Foti, Daniel and Al-Saffar, Sinan and Li, Peter and Daniel, Erik and Gilbert, Barry and Holmes, David},
+  booktitle={2014 IEEE High Performance Extreme Computing Conference (HPEC)},
+  pages={1--6},
+  year={2014},
+  organization={IEEE}
+}
+
+@article{schilling2022practical,
+  title={Practical examples on bim-gis integration based on semantic web triplestores},
+  author={Schilling, S and Clemen, C},
+  journal={The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  volume={46},
+  pages={211--216},
+  year={2022},
+  publisher={Copernicus GmbH}
+}
+
+@inproceedings{agirre2003conceptual,
+  title={A conceptual schema for a Basque lexical-semantic framework},
+  author={Agirre, ENEKO and Ansa, O and Arregi, XABIER and Artola, XABIER and D{\'\i}az de Ilarraza, A and Lersundi, M},
+  booktitle={Proceedings of COMPLEX},
+  volume={3},
+  year={2003}
+}
+
+@article{batra1990comparing,
+  title={Comparing representations with relational and EER models},
+  author={Batra, Dinesh and Hoffler, JA and Bostrom, Robert P.},
+  journal={Communications of the ACM},
+  volume={33},
+  number={2},
+  pages={126--139},
+  year={1990},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{gibaud2020semantic,
+  title={A semantic database for integrated management of image and dosimetric data in low radiation dose research in medical imaging},
+  author={Gibaud, Bernard and Brenet, Marine and Pasquier, Guillaume and Gil, Alex Vergara and Bardi{\`e}s, Manuel and Stratakis, John and Damilakis, John and Van Dooren, Nicolas and Spaltenstein, Jo{\"e}l and Ratib, Osman},
+  booktitle={AMIA Annual Symposium Proceedings},
+  volume={2020},
+  pages={492},
+  year={2020},
+  organization={American Medical Informatics Association}
+}
+
+@inproceedings{abiteboul1988col,
+  title={COL: A logic-based language for complex objects},
+  author={Abiteboul, Serge and Grumbach, Stephane},
+  booktitle={International Conference on Extending Database Technology},
+  pages={271--293},
+  year={1988},
+  organization={Springer}
+}
+
+@inproceedings{chakhar2004extending,
+  title={Extending database capabilities: Fuzzy semantic model},
+  author={Chakhar, Salem and Telmoudi, Abdelkader},
+  booktitle={The IEEE 2nd Conference on Sciences of Electronic, Technologies of Information and Telecommunications, Sousse, Tunisia, March 15-20},
+  year={2004},
+  organization={Citeseer}
+}
+
+@article{qian2017research,
+  title={Research of Chinese Word Knowledge Graph Based on SLPA Algorithm},
+  author={Qian, Xicheng and Hu, Yuyang and Pan, Jing-Chang},
+  journal={DEStech Transactions on Engineering and Technology Research},
+  year={2017}
+}
+
+@article{kardkovacscontext,
+  title={Context Identification: A Relational Database Approach},
+  author={Kardkov{\'a}cs, Zsolt T and Lejtovicz, Katalin E and Kov{\'a}cs, G{\'a}bor}
+}
+
+@inproceedings{parent2014objects,
+  title={Objects as results from graph queries using an ORM and generated semantic-relational binding.},
+  author={Parent, Marc-Antoine},
+  booktitle={ISWC (Posters \& Demos)},
+  pages={293--296},
+  year={2014},
+  organization={Citeseer}
+}
+
+@inproceedings{ege1999using,
+  title={Using Java to add" stored procedures" to databases},
+  author={Ege, Raimund K and Rishe, Naphtali and Liu, Jingyu and Lebedev, Vladimir},
+  booktitle={Proceedings of Technology of Object-Oriented Languages and Systems-TOOLS 30 (Cat. No. PR00278)},
+  pages={322--331},
+  year={1999},
+  organization={IEEE}
+}
+
+@article{nikulasdottirsemantic,
+  title={A Semantic Database for Icelandic Language Technology},
+  author={Nikul{\'a}sd{\'o}ttir, Anna Bj{\"o}rk}
+}
+
+@article{khudhairmethod,
+  title={THE METHOD OF AUTOMATED FORMATION OF THE SEMANTIC DATABASE MODEL OF THE DIALOG SYSTEM},
+  author={Khudhair, Inteasar Yaseen and Matnee, Yasir Ali and Jawad, Aqeel Thamer}
+}
+
+@inproceedings{rishe1994pipeline,
+  title={A pipeline CASE tool for database design.},
+  author={Rishe, Naphtali and Sun, Wei and FLORIDA INTERNATIONAL UNIV MIAMI SCHOOL OF COMPUTER SCIENCE},
+  booktitle={SEKE},
+  pages={336--343},
+  year={1994}
+}
+
+@article{chubb2004semantic,
+  title={Semantic biological image management and analysis},
+  author={Chubb, Charlie and Inagaki, Yoshi and Cotman, Carl and Cummings, Brian and Sheu, PC-Y},
+  journal={International Journal on Artificial Intelligence Tools},
+  volume={13},
+  number={04},
+  pages={881--896},
+  year={2004},
+  publisher={World Scientific}
+}
+
+@inproceedings{smith1992entity,
+  title={Entity modeling in the MLS relational model},
+  author={Smith, Ken and Winslett, Marianne},
+  booktitle={VLDB},
+  pages={199--210},
+  year={1992},
+  organization={Citeseer}
+}
+
+@inproceedings{azmoodeh1989gql,
+  title={GQL, A graphical query language for semantic databases},
+  author={Azmoodeh, Manoochehr and Du, Hongbo},
+  booktitle={Statistical and Scientific Database Management: Fourth International Working Conference SSDBM Rome, Italy, June 21--23, 1988 Proceedings 4},
+  pages={259--277},
+  year={1989},
+  organization={Springer}
+}
+
+@article{klegrlexico,
+  title={A lexico-semantic database of Czech. An interim report},
+  author={Kl{\'e}gr, Ond{\v{r}}ej Tich{\`y}—Zora Obstov{\'a}—Ale{\v{s}}}
+}
+
+@inproceedings{eide2019swedish,
+  title={The swedish poligraph: A semantic graph for argument mining of Swedish parliamentary data},
+  author={Eide, Stian R{\o}dven},
+  booktitle={Proceedings of the 6th Workshop on Argument Mining},
+  pages={52--57},
+  year={2019}
+}
+
+@article{moens2012cornetto,
+  title={Cornetto: a combinatorial lexical semantic database for Dutch},
+  author={Moens, Katja Hofmann and Sang, Erik Tjong Kim and de Rijke, Maarten},
+  journal={The Hague, April 2012 Linde van den Bosch, secretary general of the Dutch Language Union},
+  pages={147}
+}
+
+@inproceedings{gilbert1988asynchronous,
+  title={Asynchronous data retrieval from an object-oriented database},
+  author={Gilbert, Jonathan P and Bic, Lubomir},
+  booktitle={European Conference on Object-Oriented Programming},
+  pages={335--349},
+  year={1988},
+  organization={Springer}
+}
+
+@article{ahmadi2012automatic,
+  title={Automatic Data Migration between Two Databases with Different Structure},
+  author={Ahmadi, Ramin and Cami, Bagher Rahimpour and Hassanpour, Hamid},
+  journal={International Journal of Applied Information Systems (IJAIS)},
+  volume={3},
+  number={3},
+  pages={23},
+  year={2012}
+}
+
+@misc{karkalas2001semantic,
+  title={Semantic Object Structure Discovery from Relational Database Systems--A more Data Mining Approach},
+  author={Karkalas, Sokratis and Martin, Nigel},
+  year={2001},
+  publisher={Citeseer}
+}
+
+@inproceedings{vossen2007cornetto,
+  title={The Cornetto database: architecture and alignment issues of combining lexical units, synsets and an ontology},
+  author={Vossen, Piek and Maks, Isa and Segers, Roxane and van Der Vliet, Hennie and van Zutphen, Hetty},
+  booktitle={4th Global WordNet Conference, GWC 2008},
+  pages={485--505},
+  year={2007},
+  organization={University of Szeged}
+}
+
+@article{bade2019comparative,
+  title={A COMPARATIVE STUDY OF RELATIONAL AND SEMANTIC APPLICATION DEVELOPMENT FOR MANAGING KNOWLEDGE IN THE ENGINEERING SECTOR},
+  author={Bade, Aliyu Musa and Mohammed, Idi},
+  year={2019}
+}
+
+@article{stuanescusemantic,
+  title={Semantic databases: a smart perspective for today innovation in e-business},
+  author={ST{\u{A}}NESCU, Georgiana},
+  journal={Database Systems Journal BOARD},
+  pages={38}
+}
+
+@inproceedings{efremov2011semantic,
+  title={Semantic stored procedures programming environment and performance analysis},
+  author={Efremov, Marjan and Zdraveski, Vladimir and Ristoski, Petar and Trajanov, Dimitar},
+  booktitle={International Conference on ICT Innovations},
+  pages={357--366},
+  year={2011},
+  organization={Springer}
+}
+
+@article{bermanadd,
+  title={Add: The Automated Database Design Tool},
+  author={Berman, Sonia},
+  publisher={Computer Society of South Africa (on behalf of SAICSIT)}
+}
+
+@article{demmereview,
+  title={Review of Database Models and Analysis for General Purpose Usage},
+  author={Demme, John},
+  publisher={Citeseer}
+}
+
+@article{bollzeglzollbexpert,
+  title={An Expert System for Semantic and Relational Database Design},
+  author={BOllzeglzollb, Mokrane}
+}
+
+@article{gilarranzmultilingual,
+  title={Multilingual Semantic Database},
+  author={Gilarranz, Julio and Gonzalo, Julio and Verdejo, Felisa}
+}
+
+@inproceedings{worm1996verbmobil,
+  title={The Verbmobil Semantic Database.},
+  author={Worm, Karsten L and Heinecke, Johannes},
+  booktitle={KONVENS},
+  pages={261--267},
+  year={1996}
+}
+
+@article{rishe2000incorporation,
+  title={Incorporation of Data Files into Semantic Databases},
+  author={Rishe, Naphtali and FLORIDA INTERNATIONAL UNIV MIAMI SCHOOL OF COMPUTER SCIENCE},
+  year={2000}
+}
+
+@inproceedings{leao1995enhancing,
+  title={Enhancing medical database semantics.},
+  author={Le{\~a}o, B de F and Pavan, Altino},
+  booktitle={Proceedings of the Annual Symposium on Computer Application in Medical Care},
+  pages={294},
+  year={1995},
+  organization={American Medical Informatics Association}
+}
+
+@inproceedings{goldberg2011toward,
+  title={Toward efficient search for a fragment network in a large semantic database},
+  author={Goldberg, M and Greenman, J and Gutting, B and Magdon-Ismail, Malik and Schwartz, J and Wallace, W},
+  booktitle={Proc. 6th Annual Network Science Workshop},
+  year={2011}
+}
+
+@inproceedings{miao2007parsing,
+  title={Parsing GML data based on integrative GML syntactic and semantic schemas database},
+  author={Miao, Lizhi and Zhang, Shuliang and Lu, Guonian and Gao, Xiaoli and Jiao, Donglai and Gan, Jiayan},
+  booktitle={Geoinformatics 2007: Geospatial Information Science},
+  volume={6753},
+  pages={324--333},
+  year={2007},
+  organization={SPIE}
+}
+
+@inproceedings{ekseth2018new,
+  title={A new database for drug discovery through application of data-integration and semantics},
+  author={Ekseth, Ole Kristian and Meyer, Jan Christian and Hvasshovd, Svein Olaf},
+  booktitle={2018 IEEE 12th International Conference on Semantic Computing (ICSC)},
+  pages={403--410},
+  year={2018},
+  organization={IEEE}
+}
+
+@phdthesis{jang1984design,
+  title={Design and Implementation of an Intelligence Database},
+  author={Jang, Jai Eun and NAVAL POSTGRADUATE SCHOOL MONTEREY CA},
+  year={1984},
+  school={Naval Postgraduate School}
+}
+
+@inproceedings{watanabe1990semantic,
+  title={A semantic data model for intellectual database access},
+  author={Watanabe, Toyohide and Uehara, Yuusuke and Yoshida, Yuuji and Fukumura, Teruo},
+  booktitle={Proceedings of the Ninth Annual International Phoenix Conference on Computers and Communications, 21-23 March 1990},
+  pages={719--725},
+  year={1990},
+  organization={IEEE}
+}
+
+@inproceedings{lim2009semantic,
+  title={Semantic queries in databases: problems and challenges},
+  author={Lim, Lipyeow and Wang, Haixun and Wang, Min},
+  booktitle={Proceedings of the 18th ACM conference on Information and knowledge management},
+  pages={1505--1508},
+  year={2009}
+}
+
+@inproceedings{kumaran2004mira,
+  title={MIRA: Multilingual information processing on relational architecture},
+  author={Kumaran, A},
+  booktitle={International Conference on Extending Database Technology},
+  pages={12--23},
+  year={2004},
+  organization={Springer}
+}
+
+@inproceedings{abdullah2016innovative,
+  title={Innovative High Quality Aircraft Maintenance by Wisdom of Semantic Database Using Historical Data of Operation Staffs},
+  author={Abdullah, Dewan and Takahashi, Hironao},
+  booktitle={2016 7th International Conference on Intelligent Systems, Modelling and Simulation (ISMS)},
+  pages={205--210},
+  year={2016},
+  organization={IEEE}
+}
+
+@phdthesis{buyukoner1985design,
+  title={Design and implementation of a personnel database},
+  author={Buyukoner, Bora and Ozin, Yucel},
+  year={1985}
+}
+
+@article{arabsheibani2015toward,
+  title={Toward Semantic Web Infrastructure for Spatial FEATURES'Information},
+  author={Arabsheibani, R and Ariannamazi, S and Hakimpour, F},
+  journal={The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  volume={40},
+  pages={57--62},
+  year={2015},
+  publisher={Copernicus GmbH}
+}
+
+@inproceedings{stojanovic2002migrating,
+  title={Migrating data-intensive web sites into the semantic web},
+  author={Stojanovic, Ljiljana and Stojanovic, Nenad and Volz, Raphael},
+  booktitle={Proceedings of the 2002 ACM symposium on Applied computing},
+  pages={1100--1107},
+  year={2002}
+}
+
+@article{emile2013toward,
+  title={Toward a semantic web of paleoclimatology},
+  author={Emile-Geay, Julien and Eshleman, Jason A},
+  journal={Geochemistry, Geophysics, Geosystems},
+  volume={14},
+  number={2},
+  pages={457--469},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+
+@article{dobrowolski2016semantic,
+  title={Semantic technologies based method of collection, processing and sharing information along food chain},
+  author={Dobrowolski, Dariusz and Marciniak, Andrzej and Bartnik, Grzegorz and Kap{\l}a{\'n}ski, Pawe{\l} and {\L}ojewski, Zdzis{\l}aw},
+  journal={Information Systems in Management},
+  volume={5},
+  number={3},
+  pages={318--325},
+  year={2016},
+  publisher={Katedra Informatyki Szko{\l}a G{\l}{\'o}wna Gospodarstwa Wiejskiego w Warszawie}
+}
+
+@article{eneabuilding,
+  title={Building a Maritime Domain Lexicon: a Few Considerations on the Database Structure and the Semantic Coding},
+  author={Enea, Rita Marinelli Adriana Roventini Alessandro}
+}
+
+@inproceedings{biskup2011inference,
+  title={On the inference-proofness of database fragmentation satisfying confidentiality constraints},
+  author={Biskup, Joachim and Preu{\ss}, Marcel and Wiese, Lena},
+  booktitle={International Conference on Information Security},
+  pages={246--261},
+  year={2011},
+  organization={Springer}
+}
+
+@techreport{cuperus1990object,
+  title={Object oriented programming with a relational database},
+  author={Cuperus, Jan and Heinze, Wolfgang and Sicard, Cloude-Henri},
+  year={1990}
+}
+
+@article{barquedefinitions,
+  title={From the Definitions of the” Tr{\'e}sor de la Langue Fran{\c{c}}aise” To a Semantic Database of the French},
+  author={Barque, Lucie and Nasr, Alexis and Polgu{\`e}re, Alain}
+}
+
+@article{rishe2000workshop,
+  title={Workshop on Semantic Spatial Databases},
+  author={Rishe, Naphtali and Martinez, Maria and FLORIDA INTERNATIONAL UNIV MIAMI SCHOOL OF COMPUTER SCIENCE},
+  journal={2000.},
+  year={2000}
+}
+
+@article{mevlevioglu2014using,
+  title={Using semantic annotation in building databases to improve information and energy modelling: a use-case of UK domestic time-series data},
+  author={Mevlevioglu, Gokhan and Natarajan, S and Padget, JA},
+  year={2014}
+}
+
+@article{faroukcdl,
+  title={CDL-based Semantic Representation for Web Databases},
+  author={Farouk, Mamdouh and Ishizuka, Mitsuru}
+}
+
+@article{li1999semantic,
+  title={Semantic Multimedia Database Information Retrieval},
+  author={Li, Yi and Agius, Harry W},
+  year={1999}
+}
+
+@article{by2001pr,
+  title={PR [][EElliNEiS},
+  author={by IllS, Organized and da Silva, Ivan Nunes},
+  year={2001}
+}
+
+@article{lockemann1991databases,
+  title={Databases for Knowledge Bases: empirical study of a knowledge base management system for a semantic network},
+  author={Lockemann, Peter C and Nagel, Hans-Hellmut and Walter, Ingrid M},
+  journal={Data \& Knowledge Engineering},
+  volume={7},
+  number={2},
+  pages={115--154},
+  year={1991},
+  publisher={Elsevier}
+}
+
+@inproceedings{roventini2004extending,
+  title={Extending the Italian Wordnet with the specialized language of the maritime domain},
+  author={Roventini, Adriana and Marinelli, Rita},
+  booktitle={Proceedings of the 2nd International Global Wordnet Conference},
+  pages={193--198},
+  year={2004}
+}
+
+@article{heidari2009new,
+  title={New Methods for E-Commerce Databases Designing in Semantic Web Systems (Modern Systems)},
+  author={Heidari, Karim and Katebi, Serajodin and Far, Ali Reza Mahdavi},
+  journal={World Academy of Science, Engineering and Technology},
+  volume={51},
+  year={2009},
+  publisher={Citeseer}
+}
+
+@inproceedings{scheible2014database,
+  title={A database of paradigmatic semantic relation pairs for german nouns, verbs, and adjectives},
+  author={Scheible, Silke and Im Walde, Sabine Schulte},
+  booktitle={Proceedings of Workshop on lexical and Grammatical Resources for language processing},
+  pages={111--119},
+  year={2014}
+}
+
+@article{roth1986implementing,
+  title={Implementing a semantic data model},
+  author={Roth, Shirley L},
+  year={1986}
+}
+
+@article{hansen1984relational,
+  title={A relational approach to decision support for EDP auditing},
+  author={Hansen, James V and Messier, William F},
+  journal={Communications of the ACM},
+  volume={27},
+  number={11},
+  pages={1129--1133},
+  year={1984},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{rishe2005object,
+  title={Object ID Distribution and Encoding in the Semantic Binary Engine.},
+  author={Rishe, Naphtali and Barreto, Armando and Chekmasov, Maxim and Vasilevsky, Dmitry and Graham, Scott and Sood, Sonal and Wolfson, Ouri},
+  booktitle={ICEIS (1)},
+  pages={279--284},
+  year={2005}
+}
+
+@article{shafarenkomassively,
+  title={Massively Parallel Computing},
+  author={SHAFARENKO, AV}
+}
+
+@article{altinsoy2012semantic,
+  title={The semantic space of vehicle sounds: developing a semantic differential with regard to customer perception},
+  author={Altinsoy, M Ercan and Jekosch, Ute},
+  journal={Journal of the Audio Engineering Society},
+  volume={60},
+  number={1/2},
+  pages={13--20},
+  year={2012},
+  publisher={Audio Engineering Society}
+}
+
+@article{siahaan2009rdfgraph,
+  title={Rdfgraph: New data modeling tool for semantic web},
+  author={Siahaan, Daniel and Prapanca, Aditya},
+  journal={International Journal of Computer and Systems Engineering},
+  volume={3},
+  number={5},
+  pages={1450--1455},
+  year={2009}
+}
+
+@inproceedings{chakhar2006conceptual,
+  title={Conceptual design and implementation of the fuzzy semantic model},
+  author={Chakhar, Salem and Telmoudi, Abdelkader},
+  booktitle={Proceedings of The 11th International Conference on Information Processing and Management of Uncertainty (IPMU 2006)},
+  volume={3},
+  pages={2438--2445},
+  year={2006}
+}
+
+@article{hanna1995close,
+  title={A close look at the IFO data model},
+  author={Hanna, Magdy S},
+  journal={ACM SIGMOD Record},
+  volume={24},
+  number={1},
+  pages={21--26},
+  year={1995},
+  publisher={ACM New York, NY, USA}
+}
