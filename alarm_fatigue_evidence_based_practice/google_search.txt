@@ -1,0 +1,37 @@
+\chapter{Monitor Alarm Fatigue: An Integrative Review}
+
+\section{Overview}
+
+\cite{cvach2012monitor}
+
+\section{Author}
+
+\subsection{M Cvach}
+
+Cvach does not have any public Google Scholar author profile.
+
+\chapter{Alarm fatigue: a patient safety concern}
+
+\section{Overview}
+
+\cite{sendelbach2013alarm}
+
+\section{Author}
+
+\subsection{S Sendelbach}
+
+Sendelbach does not have any public Google Scholar author profile.
+
+\subsection{M Funk}
+
+Funk does not have any public Google Scholar author profile.
+
+\chapter{Determining the impact of an alarm management program on alarm fatigue among ICU and Telemetry RNs: An evidence based research project}
+
+\cite{dee2022determining}
+
+\chapter{An evidence-based approach to reduce nuisance alarms and alarm fatigue}
+
+\cite{welch2011evidence}
+
+
